@@ -1,3 +1,4 @@
+#include <string>
 
 class circleType
 {
@@ -27,4 +28,5 @@ public:
 
 private:
     double radius;
+    string color;
 };

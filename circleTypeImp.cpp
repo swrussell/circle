@@ -1,3 +1,4 @@
+// Author:  Scott Russell?
 //Implementation File for the class circleType
  
 #include <iostream>

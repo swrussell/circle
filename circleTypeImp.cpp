@@ -1,3 +1,4 @@
+// Comment in version 2
 //Implementation File for the class circleType
  
 #include <iostream>

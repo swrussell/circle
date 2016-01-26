@@ -13,6 +13,7 @@ int main()                                                 //Line 1
 
     double radius;                                         //Line 5
 
+	// set formats for output of floating point values
     cout << fixed << showpoint << setprecision(2);         //Line 6
 
     cout << "Line 7: circle1 - "
